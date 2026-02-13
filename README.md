@@ -23,3 +23,9 @@ You'll find the following resources in this repository:
 ## Contact
 
 If you have any questions, feel free to reach out to me.
+
+## Certificate
+![Certificate](images/certificate.png)
+
+## Event Poster
+![Event Poster](images/poster.png)
