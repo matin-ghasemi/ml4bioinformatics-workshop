@@ -26,6 +26,3 @@ If you have any questions, feel free to reach out to me.
 
 ## Certificate
 ![Certificate](images/certificate.png)
-
-## Event Poster
-![Event Poster](images/poster.png)
